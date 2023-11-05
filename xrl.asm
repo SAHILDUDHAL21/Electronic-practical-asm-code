@@ -1,0 +1,5 @@
+RG 00H
+MOV A,#36H
+MOV B,#03H
+XRL A,B
+END
